@@ -1,0 +1,43 @@
+.title-bar-light {
+    background-color: #bebebe;
+    /* background-color:#1e3933; */
+    padding: 50px;
+    /* color: white; */
+    color: #1e3933;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+}
+
+.title-bar-dark{
+    background-color: #313131;
+    /* background-color:#1e3933; */
+    padding: 50px;
+    /* color: white; */
+    color: #bebebe;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+}
+
+.menu-subtitulo{
+    color: rgba(0,0,0,.87);
+    font-weight: 600;
+    display: block;
+    margin: 40px auto;
+}
+
+.menu-parrafo{
+    display: block;
+    font-weight: 700;
+    margin: 2px auto;
+}
+
+.experiencia-parrafo{
+    display: block;
+    text-align: center;
+    margin: 80px;
+    width: 800px;
+    font-size: 2rem;
+    font-weight: 900;    
+}
